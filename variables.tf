@@ -20,7 +20,7 @@ variable "instance_count" {
   default = 1
 }
 variable "repo_name" {
-  default = "MeghanaAnantharaju/terraform-cloud-actions"
+  default = "ramya-guvvala/terraform-githubactions"
 }
 variable "pub_key" {}
 variable "ami_id" {}
